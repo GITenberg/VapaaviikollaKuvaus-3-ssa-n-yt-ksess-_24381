@@ -1,0 +1,29 @@
+_repo: VapaaviikollaKuvaus-3-ssa-n-yt-ksess-_24381
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karisto, Arvi
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '26448'
+    url: http://www.gutenberg.org/2009/agents/26448
+    wikipedia: http://fi.wikipedia.org/wiki/Arvi_A._Karisto
+description: ''
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24381'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PH'
+title: 'Vapaaviikolla
+
+  Kuvaus 3:ssa näytöksessä'
+url: http://www.gutenberg.org/ebooks/24381
